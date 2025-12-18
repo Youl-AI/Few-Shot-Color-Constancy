@@ -67,3 +67,6 @@
 * **Language:** Python
 * **Framework:** PyTorch, TorchMeta
 * **Libraries:** NumPy, OpenCV, Rawpy, Matplotlib
+
+## ⚙️ Others
+`본 프로젝트는 연구실 규정(혹은 팀 정책)상 소스코드는 공개하지 않으며, 연구 방법론과 성과 위주로 기술했습니다.`
