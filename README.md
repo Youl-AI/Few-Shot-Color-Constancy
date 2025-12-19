@@ -23,7 +23,6 @@
 ## 💡 3. Key Methodology (핵심 방법론)
 ![Model Architecture](./assets/key_1.png)
 ![Model Architecture](./assets/key_2.png)
-
 우리는 **Model-Agnostic Meta-Learning (MAML)** 알고리즘을 카메라 색 보정 도메인에 적용했습니다.
 
 ### 3.1. Meta-Learning & Few-Shot Strategy
@@ -49,7 +48,6 @@
 
 ### 4.2. 정성적 평가 (Qualitative Results)
 ![Result Comparison](./assets/result.png)
-
 * **Input:** 붉은 조명 아래서 왜곡된 색상
 * **Our Result:** 실제 눈으로 보는 것과 유사한 Ground Truth Color 복원
 * **분석:** 강한 주황색 조명 하에서도 흰색 물체의 원래 색을 성공적으로 추론함.
